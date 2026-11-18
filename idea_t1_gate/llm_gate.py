@@ -11,10 +11,11 @@ Runtime: ~25-40 min on Apple Silicon (batches of 5, 150 records/group/year).
 """
 
 import sys, os
-sys.path.insert(0, "/tmp/fk3")       # folktables install path
-
 import json, time, re
 from pathlib import Path
+
+ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(ROOT))
 
 import numpy as np
 import pandas as pd
@@ -31,7 +32,7 @@ N_PER_GROUP  = 150          # records sampled per demographic group per year
 BATCH_SIZE   = 5            # records per Ollama call
 TAU          = 0.05
 SEED         = 42
-CACHE_DIR    = Path("/tmp/acs_cache")
+CACHE_DIR    = ROOT / "acs_income" / "_cache"
 OUT_DIR      = Path("results/llm")
 CHECKPOINT   = OUT_DIR / "checkpoint.json"
 
