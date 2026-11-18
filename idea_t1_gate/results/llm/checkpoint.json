@@ -1,0 +1,184 @@
+{
+  "2014": {
+    "Male_White": {
+      "pos_rate": 0.56,
+      "accuracy": 0.5266666666666666,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_White": {
+      "pos_rate": 0.58,
+      "accuracy": 0.54,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Male_NonWhite": {
+      "pos_rate": 0.54,
+      "accuracy": 0.5133333333333333,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_NonWhite": {
+      "pos_rate": 0.6066666666666667,
+      "accuracy": 0.5266666666666666,
+      "n_valid": 150,
+      "n_total": 150
+    }
+  },
+  "2015": {
+    "Male_White": {
+      "pos_rate": 0.5733333333333334,
+      "accuracy": 0.5866666666666667,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_White": {
+      "pos_rate": 0.58,
+      "accuracy": 0.5666666666666667,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Male_NonWhite": {
+      "pos_rate": 0.5733333333333334,
+      "accuracy": 0.5333333333333333,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_NonWhite": {
+      "pos_rate": 0.62,
+      "accuracy": 0.49333333333333335,
+      "n_valid": 150,
+      "n_total": 150
+    }
+  },
+  "2016": {
+    "Male_White": {
+      "pos_rate": 0.6,
+      "accuracy": 0.6133333333333333,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_White": {
+      "pos_rate": 0.6066666666666667,
+      "accuracy": 0.56,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Male_NonWhite": {
+      "pos_rate": 0.6,
+      "accuracy": 0.5466666666666666,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_NonWhite": {
+      "pos_rate": 0.52,
+      "accuracy": 0.5733333333333334,
+      "n_valid": 150,
+      "n_total": 150
+    }
+  },
+  "2017": {
+    "Male_White": {
+      "pos_rate": 0.54,
+      "accuracy": 0.64,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_White": {
+      "pos_rate": 0.54,
+      "accuracy": 0.5733333333333334,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Male_NonWhite": {
+      "pos_rate": 0.5666666666666667,
+      "accuracy": 0.5933333333333334,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_NonWhite": {
+      "pos_rate": 0.5866666666666667,
+      "accuracy": 0.4866666666666667,
+      "n_valid": 150,
+      "n_total": 150
+    }
+  },
+  "2018": {
+    "Male_White": {
+      "pos_rate": 0.5866666666666667,
+      "accuracy": 0.5466666666666666,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_White": {
+      "pos_rate": 0.52,
+      "accuracy": 0.6266666666666667,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Male_NonWhite": {
+      "pos_rate": 0.5266666666666666,
+      "accuracy": 0.5933333333333334,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_NonWhite": {
+      "pos_rate": 0.6266666666666667,
+      "accuracy": 0.49333333333333335,
+      "n_valid": 150,
+      "n_total": 150
+    }
+  },
+  "2019": {
+    "Male_White": {
+      "pos_rate": 0.6533333333333333,
+      "accuracy": 0.52,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_White": {
+      "pos_rate": 0.5533333333333333,
+      "accuracy": 0.5866666666666667,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Male_NonWhite": {
+      "pos_rate": 0.5466666666666666,
+      "accuracy": 0.6,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_NonWhite": {
+      "pos_rate": 0.5733333333333334,
+      "accuracy": 0.62,
+      "n_valid": 150,
+      "n_total": 150
+    }
+  },
+  "2022": {
+    "Male_White": {
+      "pos_rate": 0.5533333333333333,
+      "accuracy": 0.5466666666666666,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_White": {
+      "pos_rate": 0.5666666666666667,
+      "accuracy": 0.49333333333333335,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Male_NonWhite": {
+      "pos_rate": 0.5266666666666666,
+      "accuracy": 0.6266666666666667,
+      "n_valid": 150,
+      "n_total": 150
+    },
+    "Female_NonWhite": {
+      "pos_rate": 0.56,
+      "accuracy": 0.5866666666666667,
+      "n_valid": 150,
+      "n_total": 150
+    }
+  }
+}

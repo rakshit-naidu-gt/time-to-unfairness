@@ -1,0 +1,33 @@
+{
+  "task": "coverage",
+  "label": "Public Health Coverage",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021,
+    2022
+  ],
+  "val_auc": 0.7851454287017279,
+  "alt_hrs": {
+    "race": NaN,
+    "race_one_sided": true,
+    "sex": NaN,
+    "sex_one_sided": true
+  },
+  "slopes": {
+    "race_White": -2.2827978315770026e-05,
+    "race_NonWhite": 0.0025948401831285607,
+    "sex_Male": -1.29071938963193e-06,
+    "sex_Female": 0.0010848693507266875
+  },
+  "ttcs": {
+    "race_White": Infinity,
+    "race_NonWhite": 19.269009446167793,
+    "sex_Male": Infinity,
+    "sex_Female": 46.08849901281483
+  }
+}

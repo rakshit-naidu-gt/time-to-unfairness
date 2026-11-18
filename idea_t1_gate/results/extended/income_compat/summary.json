@@ -1,0 +1,33 @@
+{
+  "task": "income_compat",
+  "label": "Income >$50k (no RELP)",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021,
+    2022
+  ],
+  "val_auc": 0.8674004747028252,
+  "alt_hrs": {
+    "race": 0.18515387987274282,
+    "race_one_sided": false,
+    "sex": 1.9050378447997087,
+    "sex_one_sided": false
+  },
+  "slopes": {
+    "race_White": 0.011560662712883247,
+    "race_NonWhite": 0.0021405015551904816,
+    "sex_Male": 0.0031461501282774172,
+    "sex_Female": 0.005993535059789938
+  },
+  "ttcs": {
+    "race_White": 4.325011570857423,
+    "race_NonWhite": 23.359011292823162,
+    "sex_Male": 15.892439318328412,
+    "sex_Female": 8.342322102267373
+  }
+}

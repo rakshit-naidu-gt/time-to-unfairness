@@ -1,0 +1,30 @@
+{
+  "task": "employment",
+  "label": "Employment Status",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "val_auc": 0.8846231322057825,
+  "alt_hrs": {
+    "race": 0.49300414431123074,
+    "race_one_sided": false,
+    "sex": 1.0720897467019586,
+    "sex_one_sided": false
+  },
+  "slopes": {
+    "race_White": 0.002601295984923574,
+    "race_NonWhite": 0.0012824497011474868,
+    "sex_Male": 0.0010382606773086279,
+    "sex_Female": 0.0011131086265464107
+  },
+  "ttcs": {
+    "race_White": 19.22118831912509,
+    "race_NonWhite": 38.987883856389786,
+    "sex_Male": 48.157462853750424,
+    "sex_Female": 44.91924580185191
+  }
+}

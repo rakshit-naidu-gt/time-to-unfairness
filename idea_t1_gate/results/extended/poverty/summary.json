@@ -1,0 +1,30 @@
+{
+  "task": "poverty",
+  "label": "Income <250% Poverty",
+  "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "val_auc": 0.805276124444587,
+  "alt_hrs": {
+    "race": 1.4164634664043292,
+    "race_one_sided": false,
+    "sex": 1.24887110199989,
+    "sex_one_sided": false
+  },
+  "slopes": {
+    "race_White": 0.007199737135141943,
+    "race_NonWhite": 0.010198164619643131,
+    "sex_Male": 0.007136510748525587,
+    "sex_Female": 0.00891258204294521
+  },
+  "ttcs": {
+    "race_White": 6.944697988479304,
+    "race_NonWhite": 4.9028429982089925,
+    "sex_Male": 7.006224997325208,
+    "sex_Female": 5.610046534110471
+  }
+}

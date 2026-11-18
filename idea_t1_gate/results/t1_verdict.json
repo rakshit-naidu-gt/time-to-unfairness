@@ -1,0 +1,41 @@
+{
+  "verdict": "GO-SYMMETRIC",
+  "years_loaded": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "base_year": 2014,
+  "val_auc": 0.8685018080608623,
+  "tau_degradation": 0.05,
+  "tau_dp_gap": 0.1,
+  "real_crossings": [],
+  "gap_crossings": [
+    [
+      "race",
+      2014,
+      0.10071032134017671
+    ],
+    [
+      "race",
+      2018,
+      0.10008346636248988
+    ]
+  ],
+  "alt_hr_race": 1.1656775631771459,
+  "alt_hr_sex": 1.8515155045610199,
+  "slopes": {
+    "race_White": 0.003550382053093437,
+    "race_NonWhite": 0.00413860069999783,
+    "sex_Male": 0.002560268074876793,
+    "sex_Female": 0.004740376036466976
+  },
+  "t2c_years": {
+    "race_White": 14.082991422411894,
+    "race_NonWhite": 12.08137813344163,
+    "sex_Male": 19.529204965150434,
+    "sex_Female": 10.547686431489353
+  }
+}

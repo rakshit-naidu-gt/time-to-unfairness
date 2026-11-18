@@ -1,0 +1,7 @@
+task,label,attr,years,n_snapshots,val_auc,r_White,r_NonWhite,HR,TTC_White,TTC_NonWhite,inequity_yrs,r_Male,r_Female,TTC_Male,TTC_Female
+income_compat,Income >$50k (no RELP),race,2014-2022,8,0.8674,0.011561,0.002141,0.185,4.3,23.4,19.0,,,,
+income_compat,Income >$50k (no RELP),sex,2014-2022,8,0.8674,,,1.905,,,7.6,0.003146,0.005994,15.9,8.3
+employment,Employment Status,race,2014-2018,5,0.8846,0.002601,0.001282,0.493,19.2,39.0,19.8,,,,
+employment,Employment Status,sex,2014-2018,5,0.8846,,,1.072,,,3.2,0.001038,0.001113,48.2,44.9
+poverty,Income <250% Poverty,race,2014-2018,5,0.8053,0.0072,0.010198,1.416,6.9,4.9,2.0,,,,
+poverty,Income <250% Poverty,sex,2014-2018,5,0.8053,,,1.249,,,1.4,0.007137,0.008913,7.0,5.6
