@@ -1,7 +1,7 @@
 # Time-to-Unfairness
 
 Code for *"Time-to-Unfairness: How Fast Does a Deployed Model Go Stale, and
-for Whom?"* (FAccT 2027 submission).
+for Whom?"* .
 
 A model that passes a fairness audit at deployment holds its certified
 property only as long as the population it was certified on remains
